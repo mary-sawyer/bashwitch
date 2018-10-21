@@ -9,7 +9,7 @@ https://attack.mitre.org/wiki/Technique/T1139
 ## Current Features
 
 mysql  
-docker <17.0.7 before the introduction of --password-stdin (mitigates issue)
+docker <17.0.7 before the introduction of --password-stdin (mitigates issue)  
 jenkins  
 
 ## Installation
